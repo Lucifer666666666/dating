@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 03 May 2020 13:19:53 at https://mjwwl.ladiestofuck.com/c/da57dc555e50572d?s1 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -WC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://mjwwl.ladiestofuck.com/c/da57dc555e50572d?s1 -O1 "C:\My Web Sites\Gameover" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:20:13	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 4103): https://cdn-aimi.akamaized.net/images/favicon.ico
+13:20:17	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://mjwwl.ladiestofuck.com/c/da57dc555e50572d?s1)
+13:20:17	Warning: 	unexpected incomplete type with 200 code at https://www.googletagmanager.com/ns.html?id=GTM-PPJGZHL
+13:20:17	Warning: 	File not parsed, looks like binary: https://www.googletagmanager.com/ns.html?id=GTM-PPJGZHL
+13:20:17	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/Gameover/www.googletagmanager.com/ns.7fbf1.delayed
+13:20:18	Warning: 	Moved Temporarily for https://cdn-aimi.akamaized.net/robots.txt
+13:20:18	Warning: 	File has moved from https://cdn-aimi.akamaized.net/robots.txt to https://cdn-aimi.akamaized.net/404
+
+HTTrack Website Copier/3.49-2 mirror complete in 25 seconds : 12 links scanned, 7 files written (5237983 bytes overall) [5112125 bytes received at 204485 bytes/sec], 200421 bytes transferred using HTTP compression in 6 files, ratio 32%, 1.7 requests per connection
+(1 errors, 6 warnings, 0 messages)

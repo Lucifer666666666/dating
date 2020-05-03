@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+mjwwl.ladiestofuck.com	TRUE	/	FALSE	1999999999	unique_2883930	unique_2883930
+mjwwl.ladiestofuck.com	TRUE	/	FALSE	1999999999	unique_id	5eaea7b375b0a370737249
+mjwwl.ladiestofuck.com	TRUE	/	FALSE	1999999999	scriptHash	49415__
+
